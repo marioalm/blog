@@ -19,6 +19,7 @@ interests:
 - Inteligência Artificial
 - Machine Learning
 - Deep Learning
+- Ensino da Matemática
 name: Mario Assis Almeida dos Santos
 organizations:
 - name: Petrobras
